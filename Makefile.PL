@@ -11,4 +11,5 @@ requires 'URI';
 requires 'Web::Scraper';
 requires 'XML::LibXML';
 
+repository 'http://github.com/miyagawa/github-growler';
 WriteAll;
